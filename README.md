@@ -6,7 +6,7 @@ I'm a beginner software engineer learning how to build websites and apps. I'm cu
 - Learning HTML, CSS, and JavaScript
 - Building beginner web apps (like a mood tracker) (file:///C:/Users/Star/Desktop/mood%20tracker%20app%202/index.html)
 - Practicing languages like Python
-- Deepening knowledge in  SDLC, CI/CD, API, or my journey into Software Engineering
+- Deepening knowledge in  SDLC, CI/CD, API, and my journey into Software Engineering
 
 ## 🛠 Projects I'm Working On
 - [Mood Tracker App](file:///C:/Users/Star/Desktop/mood%20tracker%20app%202025/index.html)
