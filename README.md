@@ -15,7 +15,7 @@ I'm a beginner software engineer learning how to build websites and apps. I'm cu
 ## 📚 Skills I'm Learning
 - HTML & CSS
 - JavaScript (Vanilla JS)
-- Git & GitHub
+- GitHub Management and Basic Navigation
 - Basic project structure
 - SDLC, APIs, and CI/CD
 - Automation
