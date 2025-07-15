@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Star
+# Hola, I'm Star 👋 💻 🦄
 
 I'm a beginner software engineer learning how to build websites and apps. I'm currently focused on learning web development fundamentals and building small personal projects to practice.
 
