@@ -1,6 +1,6 @@
 # Hola, I'm Star 👋 💻 🦄
 
-I'm a beginner software engineer learning how to build websites and apps. I'm currently focused on learning web development fundamentals and building small personal projects to practice.
+I'm a novice software engineer learning how to build websites and apps. I'm currently focused on learning front-end fundamentals and building small personal projects to practice.
 
 ## 🌱 Current Focus
 - Learning HTML, CSS, and JavaScript
