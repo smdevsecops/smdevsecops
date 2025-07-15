@@ -9,7 +9,7 @@ I'm a beginner software engineer learning how to build websites and apps. I'm cu
 - Deepening knowledge in  SDLC, CI/CD, API, or my journey into Software Engineering
 
 ## 🛠 Projects I'm Working On
-- [Mood Tracker App](https://github.com/yourusername/mood-tracker-app)
+- [Mood Tracker App](file:///C:/Users/Star/Desktop/mood%20tracker%20app%202025/index.html)
 - [Portfolio Website](https://github.com/yourusername/portfolio-site)
 
 ## 📚 Skills I'm Learning
